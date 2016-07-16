@@ -170,3 +170,6 @@ bindsym $mod+Control+Right workspace next
 # should not use
 bindsym $mod+Shift+Control+Left move workspace prev
 bindsym $mod+Shift+Control+Right move workspace next
+
+# lock ubuntu
+bindsym $mod+Control+Shift+l exec i3lock
