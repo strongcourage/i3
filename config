@@ -173,3 +173,4 @@ bindsym $mod+Shift+Control+Right move workspace next
 
 # lock ubuntu
 bindsym $mod+Control+Shift+l exec i3lock
+bindsym $mod+Control+l exec gnome-screensaver-command -l
